@@ -1,0 +1,15 @@
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\bin\Debug\net8.0\linq.exe
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\bin\Debug\net8.0\linq.deps.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\bin\Debug\net8.0\linq.runtimeconfig.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\bin\Debug\net8.0\linq.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\bin\Debug\net8.0\linq.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\linq.AssemblyInfoInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\linq.AssemblyInfo.cs
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\linq.csproj.CoreCompileInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\linq.sourcelink.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\linq.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\refint\linq.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\linq.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\linq.genruntimeconfig.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\linq\obj\Debug\net8.0\ref\linq.dll

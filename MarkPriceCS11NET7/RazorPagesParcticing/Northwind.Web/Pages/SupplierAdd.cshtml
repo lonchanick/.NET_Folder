@@ -1,0 +1,22 @@
+﻿@page
+@model Northwind.Web.Pages.SupplierAddModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<div class="row">
+
+    <form method="post">
+        <div>
+            <input asp-for="Supplier.CompanyName" placeholder="Company Name"/>
+        </div>
+        <div>
+            <input asp-for="Supplier.Country" placeholder="Country"/>
+        </div>
+        <div>
+            <input asp-for="Supplier.Phone" placeholder="Phone" />
+        </div>
+        <input type="submit" />
+
+    </form>
+
+</div>

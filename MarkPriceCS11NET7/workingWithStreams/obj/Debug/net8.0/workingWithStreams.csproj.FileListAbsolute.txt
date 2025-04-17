@@ -1,0 +1,14 @@
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\bin\Debug\net8.0\workingWithStreams.exe
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\bin\Debug\net8.0\workingWithStreams.deps.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\bin\Debug\net8.0\workingWithStreams.runtimeconfig.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\bin\Debug\net8.0\workingWithStreams.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\bin\Debug\net8.0\workingWithStreams.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\obj\Debug\net8.0\workingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\obj\Debug\net8.0\workingWithStreams.AssemblyInfoInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\obj\Debug\net8.0\workingWithStreams.AssemblyInfo.cs
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\obj\Debug\net8.0\workingWithStreams.csproj.CoreCompileInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\obj\Debug\net8.0\workingWithStreams.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\obj\Debug\net8.0\refint\workingWithStreams.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\obj\Debug\net8.0\workingWithStreams.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\obj\Debug\net8.0\workingWithStreams.genruntimeconfig.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\workingWithStreams\obj\Debug\net8.0\ref\workingWithStreams.dll

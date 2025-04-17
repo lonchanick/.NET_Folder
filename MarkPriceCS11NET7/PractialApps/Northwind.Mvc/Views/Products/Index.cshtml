@@ -1,0 +1,33 @@
+﻿
+<div class="container">
+    <h2>Products Page</h2>
+    <a asp-controller="Products" asp-action="AddForm">New Product</a>
+</div>
+
+<div class="container mt-4">
+    <h1>Product List</h1>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Product Name</th>
+                <th>Supplier Id</th>
+                <th>Category Id</th>
+                <!-- Add other columns here as needed -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.ProductId</td>
+                    <td>@product.ProductName</td>
+                    <td>@product.SupplierId</td>
+                    <td>@product.CategoryId</td>
+                    <!-- Add other columns here as needed -->
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

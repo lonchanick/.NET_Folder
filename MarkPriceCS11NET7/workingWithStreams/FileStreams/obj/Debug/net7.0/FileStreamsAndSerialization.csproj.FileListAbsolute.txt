@@ -1,0 +1,14 @@
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\bin\Debug\net7.0\FileStreamsAndSerialization.exe
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\bin\Debug\net7.0\FileStreamsAndSerialization.deps.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\bin\Debug\net7.0\FileStreamsAndSerialization.runtimeconfig.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\bin\Debug\net7.0\FileStreamsAndSerialization.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\bin\Debug\net7.0\FileStreamsAndSerialization.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\obj\Debug\net7.0\FileStreamsAndSerialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\obj\Debug\net7.0\FileStreamsAndSerialization.AssemblyInfoInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\obj\Debug\net7.0\FileStreamsAndSerialization.AssemblyInfo.cs
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\obj\Debug\net7.0\FileStreamsAndSerialization.csproj.CoreCompileInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\obj\Debug\net7.0\FileStreamsAndSerialization.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\obj\Debug\net7.0\refint\FileStreamsAndSerialization.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\obj\Debug\net7.0\FileStreamsAndSerialization.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\obj\Debug\net7.0\FileStreamsAndSerialization.genruntimeconfig.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\FileStreamsAndSerialization\obj\Debug\net7.0\ref\FileStreamsAndSerialization.dll

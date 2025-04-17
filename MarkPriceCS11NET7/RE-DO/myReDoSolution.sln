@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Web", "Northwind.Web\Northwind.Web.csproj", "{DAF429B8-1B01-4434-872B-1CED55E9B3BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.DataContext.Sqlite", "Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite.csproj", "{86FA23F4-2F22-459F-89B0-56FD776B05A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.EntityModels.Sqlite", "Northwind.Common.EntityModels.Sqlite\Northwind.Common.EntityModels.Sqlite.csproj", "{C93F70D8-9F59-4F44-B461-738053CF99E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF429B8-1B01-4434-872B-1CED55E9B3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF429B8-1B01-4434-872B-1CED55E9B3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF429B8-1B01-4434-872B-1CED55E9B3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF429B8-1B01-4434-872B-1CED55E9B3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FA23F4-2F22-459F-89B0-56FD776B05A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FA23F4-2F22-459F-89B0-56FD776B05A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FA23F4-2F22-459F-89B0-56FD776B05A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FA23F4-2F22-459F-89B0-56FD776B05A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93F70D8-9F59-4F44-B461-738053CF99E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93F70D8-9F59-4F44-B461-738053CF99E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93F70D8-9F59-4F44-B461-738053CF99E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93F70D8-9F59-4F44-B461-738053CF99E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

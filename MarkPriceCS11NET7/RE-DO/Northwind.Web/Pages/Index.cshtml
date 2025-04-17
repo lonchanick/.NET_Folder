@@ -1,0 +1,30 @@
+@page
+@model Northwind.Web.Pages.IndexModel
+@using Packt.Shared
+
+<body>
+  <div class="container">
+    <div class="jumbotron">
+      <h1 class="display-3">Welcome to Northwind B2B</h1>
+      <p class="lead">We supply products to our customers.</p>
+      <hr />
+      <h2>This is NOT a static HTML page. Today is @Model.DayName!</h2>
+      <p>Our customers include restaurants, hotels, and cruise lines.</p>
+
+      <div class="container">
+        <ul>
+          @foreach(Employee e in Model.Employees)
+          {
+              <li>
+                @e.FirstName - @e.LastName
+              </li>
+          }
+        </ul>
+      </div>
+
+      <p>
+        <a class="btn btn-primary" href="https://www.asp.net/">Learn more</a>
+      </p>
+    </div>
+  </div>
+</body>

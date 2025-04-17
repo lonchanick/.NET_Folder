@@ -1,0 +1,17 @@
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\bin\Debug\net8.0\Serializing.exe
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\bin\Debug\net8.0\Serializing.deps.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\bin\Debug\net8.0\Serializing.runtimeconfig.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\bin\Debug\net8.0\Serializing.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\bin\Debug\net8.0\Serializing.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\Serializing.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\Serializing.AssemblyInfoInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\Serializing.AssemblyInfo.cs
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\Serializing.csproj.CoreCompileInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\Serializing.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\refint\Serializing.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\Serializing.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\Serializing.genruntimeconfig.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\ref\Serializing.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\Serializing.csproj.AssemblyReference.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\Serializing\obj\Debug\net8.0\Serializing.csproj.CopyComplete

@@ -1,0 +1,14 @@
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\bin\Debug\net7.0\whiteBoard.exe
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\bin\Debug\net7.0\whiteBoard.deps.json
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\bin\Debug\net7.0\whiteBoard.runtimeconfig.json
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\bin\Debug\net7.0\whiteBoard.dll
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\bin\Debug\net7.0\whiteBoard.pdb
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\obj\Debug\net7.0\whiteBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\obj\Debug\net7.0\whiteBoard.AssemblyInfoInputs.cache
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\obj\Debug\net7.0\whiteBoard.AssemblyInfo.cs
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\obj\Debug\net7.0\whiteBoard.csproj.CoreCompileInputs.cache
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\obj\Debug\net7.0\whiteBoard.dll
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\obj\Debug\net7.0\refint\whiteBoard.dll
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\obj\Debug\net7.0\whiteBoard.pdb
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\obj\Debug\net7.0\whiteBoard.genruntimeconfig.cache
+D:\.NET FOLDER\whiteBoardToPractice\whiteBoard\obj\Debug\net7.0\ref\whiteBoard.dll

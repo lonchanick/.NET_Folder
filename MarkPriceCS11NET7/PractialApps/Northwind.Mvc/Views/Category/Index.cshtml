@@ -1,0 +1,40 @@
+﻿@using Packt.Shared
+@model IList<Category>
+@{
+    ViewData["Category"] = "Categories";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Categories</h1>
+</div>
+@if(Model is not null)
+{
+    <code>Model is not null and there is somewhat to proccess.</code>
+    
+    <ul>
+        @foreach(Category cat in Model)
+        {
+            @* <li><a >@cat.CategoryName</a> </li>
+            <li>@cat.Description </li>
+            <br /> *@
+
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+
+                <a asp-controller="Category" asp-action="CategoryDetails"
+                   asp-route-id="@cat.CategoryId" class="btn btn-outline-primary">
+                    <div class="ms-2 me-auto">@cat.Description</div>
+
+                    @* <span class="badge bg-primary rounded-pill">
+                        @(p.UnitPrice is null ? "zero" : p.UnitPrice.Value.
+                            ToString("C"))
+                    </span> *@
+                </a>
+            </li>
+        }
+    </ul>
+}else
+{
+    <code>Model IS NULL and there is somewhat to proccess.</code>
+}
+
+

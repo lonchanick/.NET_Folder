@@ -1,0 +1,13 @@
+﻿@page
+@model Northwind.Web.Pages.CustomersModel
+
+<h1>@ViewData["Title"]</h1>
+@foreach (var group in Model.Customers)
+{
+    <h3>@group.Key</h3>
+    foreach (var customer in group)
+    {
+        <a href="CustomerDetail/@customer.CustomerId">@customer.ContactName</a>
+        <br />
+    }
+}

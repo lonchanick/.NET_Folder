@@ -1,0 +1,15 @@
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.exe
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.deps.json
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.runtimeconfig.json
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.dll
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.pdb
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.AssemblyInfo.cs
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.sourcelink.json
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.dll
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\refint\SimpleCSharpApp.dll
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.pdb
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.genruntimeconfig.cache
+C:\.NET FOLDER\C# 10 with .NET6\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net8.0\ref\SimpleCSharpApp.dll

@@ -1,0 +1,76 @@
+﻿ @model Book
+
+<div class="container">
+  <form method="post" enctype="multipart/form-data">
+
+    <div class="boder p-3 mb-4">
+
+      <input asp-for="Id" hidden />
+      <input asp-for="ImageUrl" hidden />
+
+      <div class="row" style="margin: 0; padding: 0;">
+        <div class="col-10">
+          <div class="mb-3">
+            <label asp-for="Title"></label>
+            <input asp-for="Title" type="text" class="form-control" disabled />
+          </div>
+          <div class="mb-3">
+            <label asp-for="Description"></label>
+            <input asp-for="Description" type="text" class="form-control" disabled />
+          </div>
+          <div class="mb-3">
+            <label asp-for="ISBN"></label>
+            <input asp-for="ISBN" type="text" class="form-control" disabled />
+          </div>
+          <div class="mb-3">
+            <label asp-for="Author"></label>
+            <input asp-for="Author" type="text" class="form-control" disabled />
+          </div>
+          <div class="mb-3">
+            <label asp-for="ListPrice"></label>
+            <input asp-for="ListPrice" type="text" class="form-control" disabled />
+          </div>
+          <div class="mb-3">
+            <label asp-for="Price"></label>
+            <input asp-for="Price" type="text" class="form-control" disabled />
+          </div>
+          <div class="mb-3">
+            <label asp-for="Price50"></label>
+            <input asp-for="Price50" type="text" class="form-control" disabled />
+          </div>
+          <div class="mb-3">
+            <label asp-for="Price100"></label>
+            <input asp-for="Price100" type="text" class="form-control" disabled />
+          </div>
+
+          <div class="mb-3">
+            <label asp-for="Category.Name"></label>
+            <input asp-for="Category.Name" type="text" class="form-control" disabled />
+          </div>
+
+        </div>
+
+        <div class="col-2" style="margin: 0; padding: 0;">
+          <img src="@Model.ImageUrl" class="img-fluid" />
+        </div>
+
+      </div>
+
+      <div class="col-6 col-md-3">
+        <a class="btn btn-outline-secondary form-control" asp-controller="home" asp-action="Index">
+          <i class="bi bi-arrow-left-circle"></i>Back
+        </a>
+      </div>
+
+      </div>
+ 
+    </form>
+
+</div>
+
+@section Scripts
+{
+  @{
+    <partial name="_ValidationScriptsPartial" />
+  }
+}

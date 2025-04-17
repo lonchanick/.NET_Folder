@@ -1,0 +1,14 @@
+D:\.NET FOLDER\CSharp_11_Book\bin\Release\net6.0\CSharp_11_Book.exe
+D:\.NET FOLDER\CSharp_11_Book\bin\Release\net6.0\CSharp_11_Book.deps.json
+D:\.NET FOLDER\CSharp_11_Book\bin\Release\net6.0\CSharp_11_Book.runtimeconfig.json
+D:\.NET FOLDER\CSharp_11_Book\bin\Release\net6.0\CSharp_11_Book.dll
+D:\.NET FOLDER\CSharp_11_Book\bin\Release\net6.0\CSharp_11_Book.pdb
+D:\.NET FOLDER\CSharp_11_Book\obj\Release\net6.0\CSharp_11_Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET FOLDER\CSharp_11_Book\obj\Release\net6.0\CSharp_11_Book.AssemblyInfoInputs.cache
+D:\.NET FOLDER\CSharp_11_Book\obj\Release\net6.0\CSharp_11_Book.AssemblyInfo.cs
+D:\.NET FOLDER\CSharp_11_Book\obj\Release\net6.0\CSharp_11_Book.csproj.CoreCompileInputs.cache
+D:\.NET FOLDER\CSharp_11_Book\obj\Release\net6.0\CSharp_11_Book.dll
+D:\.NET FOLDER\CSharp_11_Book\obj\Release\net6.0\refint\CSharp_11_Book.dll
+D:\.NET FOLDER\CSharp_11_Book\obj\Release\net6.0\CSharp_11_Book.pdb
+D:\.NET FOLDER\CSharp_11_Book\obj\Release\net6.0\CSharp_11_Book.genruntimeconfig.cache
+D:\.NET FOLDER\CSharp_11_Book\obj\Release\net6.0\ref\CSharp_11_Book.dll

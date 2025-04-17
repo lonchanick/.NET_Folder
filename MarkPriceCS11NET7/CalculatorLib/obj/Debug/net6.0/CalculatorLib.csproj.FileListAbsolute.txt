@@ -1,0 +1,11 @@
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\obj\Debug\net6.0\refint\CalculatorLib.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll

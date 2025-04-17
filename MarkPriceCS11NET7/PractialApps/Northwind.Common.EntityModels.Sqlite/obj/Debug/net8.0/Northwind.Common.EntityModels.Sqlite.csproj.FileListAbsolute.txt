@@ -1,0 +1,15 @@
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.deps.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.runtimeconfig.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.csproj.AssemblyReference.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfoInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfo.cs
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.csproj.CoreCompileInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.sourcelink.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\refint\Northwind.Common.EntityModels.Sqlite.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.Common.EntityModels.Sqlite.genruntimeconfig.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PractialApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net8.0\ref\Northwind.Common.EntityModels.Sqlite.dll

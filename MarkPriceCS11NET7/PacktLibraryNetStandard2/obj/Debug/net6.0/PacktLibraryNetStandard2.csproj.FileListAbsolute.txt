@@ -1,0 +1,11 @@
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\bin\Debug\net6.0\PacktLibraryNetStandard2.deps.json
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\bin\Debug\net6.0\PacktLibraryNetStandard2.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\bin\Debug\net6.0\PacktLibraryNetStandard2.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\obj\Debug\net6.0\PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\obj\Debug\net6.0\PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\obj\Debug\net6.0\PacktLibraryNetStandard2.AssemblyInfo.cs
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\obj\Debug\net6.0\PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\obj\Debug\net6.0\PacktLibraryNetStandard2.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\obj\Debug\net6.0\refint\PacktLibraryNetStandard2.dll
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\obj\Debug\net6.0\PacktLibraryNetStandard2.pdb
+D:\.NET FOLDER\CSharp_11_Book_ALL_FILES\PacktLibraryNetStandard2\obj\Debug\net6.0\ref\PacktLibraryNetStandard2.dll

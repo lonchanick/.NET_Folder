@@ -1,0 +1,16 @@
+﻿@using Packt.Shared
+@model CategoryAndQuantity
+
+@if(Model is not null)
+{
+    <div class="text-center">
+        <h1 class="display-4">Categoty details</h1>
+        <h3>@Model.category!.CategoryName</h3>
+        <p>Id: @Model.category.CategoryId</p>
+        <p>Name: @Model.category.CategoryName</p>
+        <p>Description: @Model.category.Description</p>
+        <p>Quantity: @Model.Quantity</p>
+    </div>
+}
+
+

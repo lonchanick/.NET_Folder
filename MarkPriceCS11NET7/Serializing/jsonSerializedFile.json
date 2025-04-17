@@ -1,0 +1,27 @@
+[
+  {
+    "FirstName": "Diego",
+    "Lastname": "Arroyo",
+    "DateOfBirth": "1991-08-10T00:00:00",
+    "Chindren": null
+  },
+  {
+    "FirstName": "Agustin",
+    "Lastname": "Arroyo",
+    "DateOfBirth": "2022-06-06T00:00:00",
+    "Chindren": null
+  },
+  {
+    "FirstName": "Carlos",
+    "Lastname": "Arroyo",
+    "DateOfBirth": "1965-03-17T00:00:00",
+    "Chindren": [
+      {
+        "FirstName": "Karla",
+        "Lastname": "Arroyo",
+        "DateOfBirth": "2006-06-16T00:00:00",
+        "Chindren": null
+      }
+    ]
+  }
+]

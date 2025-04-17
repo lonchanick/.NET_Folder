@@ -1,0 +1,10 @@
+﻿@page "/CustomerDetail/{idcustomer?}"
+@model Northwind.Web.Pages.CustomerDetailModel
+ 
+<h2>Customer Details</h2>
+<b>Customer Name: <code>@Model.CustomerOrders.ContactName</code></b><br />
+<b>Orders:</b><br />
+@foreach(var order in Model.CustomerOrders.Orders)
+{
+    <code>Order Date: @order.OrderDate</code><br />
+}

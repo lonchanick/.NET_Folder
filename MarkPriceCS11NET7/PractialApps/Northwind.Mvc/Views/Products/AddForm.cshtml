@@ -1,0 +1,79 @@
+﻿@using Packt.Shared
+
+@model Product
+
+@{
+    IEnumerable<IEnumerable<int>> suppliersAndCategories = 
+    ViewBag.SupplierAndCategory as IEnumerable<IEnumerable<int>>;
+}
+
+<div class="container">
+    <h1>Create Product</h1>
+
+    <form method="post" action="AddProd">
+        <div class="mb-3">
+            <label asp-for="ProductName" class="form-label">Product Name</label>
+            <input asp-for="ProductName" class="form-control" />
+            <span asp-validation-for="ProductName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="SupplierId" class="form-label">ID Supplier</label>
+            <select asp-for="SupplierId" class="form-control">
+                @foreach (var option in suppliersAndCategories.ElementAt(0))
+                {
+                    <option value="@option">@option</option>
+                }
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CategoryId" class="form-label">Categy ID</label>
+            <select asp-for="CategoryId" class="form-control">
+                @foreach (var option in suppliersAndCategories.ElementAt(1))
+                {
+                    <option value="@option">@option</option>
+                }
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="QuantityPerUnit" class="form-label">Quantity Per Unit</label>
+            <input asp-for="QuantityPerUnit" class="form-control" />
+            <span asp-validation-for="QuantityPerUnit" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="UnitPrice" class="form-label">Unit Price</label>
+            <input asp-for="UnitPrice" class="form-control" />
+            <span asp-validation-for="UnitPrice" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="UnitsInStock" class="form-label">Units In Stock</label>
+            <input asp-for="UnitsInStock" class="form-control" />
+            <span asp-validation-for="UnitsInStock" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="UnitsOnOrder" class="form-label">Units On Order</label>
+            <input asp-for="UnitsOnOrder" class="form-control" />
+            <span asp-validation-for="UnitsOnOrder" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ReorderLevel" class="form-label">Reorder Level</label>
+            <input asp-for="ReorderLevel" class="form-control" />
+            <span asp-validation-for="ReorderLevel" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3 form-check">
+            <input asp-for="Discontinued" type="checkbox" class="form-check-input" />
+            <label class="form-check-label" asp-for="Discontinued">Discontinued</label>
+            <span asp-validation-for="Discontinued" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>
+
